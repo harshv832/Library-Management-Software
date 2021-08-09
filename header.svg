@@ -1,7 +1,8 @@
-<svg>
-  <foreignObject >
-    <style>
-              html,
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				html,
         body {
             margin: 0;
             padding: 0;
@@ -73,9 +74,12 @@
             50% { background-position: 400% 0; }
             100% { background-position: 0 0; }
         }
-      </style
-      
-
-    <a href="https://github.com/harshv832/Library-Management-Software/archive/refs/heads/main.zip"<button class="glow-on-hover" type="button">DOWNLOAD .ZIP</button></a>
-  </foreignObject>
+			</style>
+			<div>
+				<a href="https://github.com/harshv832/Library-Management-Software/archive/refs/heads/main.zip"<button class="glow-on-hover" type="button">DOWNLOAD .ZIP</button></a>
+  
+			</div>
+		</div>
+	</foreignObject>
 </svg>
+              
