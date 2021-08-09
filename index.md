@@ -1,6 +1,6 @@
 ## LIBRARY MANAGEMENT SOFTWARE
 
-<img src="header.svg" >
+<img src="header.svg" alt="download zip">
 
 **TO RUN THE PROGRAM FOLLOWING STEPS SHOULD BE FOLLOWED::**
 1. After extracting the zip file there will be three folders (code and header files (LMS),
