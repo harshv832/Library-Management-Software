@@ -7,7 +7,7 @@ Library Management and Main program) and first you must save the folder named
 “Library Management” to your respective C drive(C:\). This contains all the data required
 during the execution of the application(data of books, data of issued books, and the
 password required to log-in as librarian).
-2. Extract libray_mang folder in you Library Management Software folder.
+2. Extract libray_mang.rar and library_other.rar in a new folder in your 'Library Management Software' folder.
 3. Then open the “main program” folder which contains a program file named
 “library_mang.exe” by opening it you can access the gui based LIBRARY
 MANAGEMENT SYSTEM console.
