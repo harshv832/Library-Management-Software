@@ -1,10 +1,6 @@
 ## LIBRARY MANAGEMENT SOFTWARE
 
-(setq markdown-css-paths '("https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"))
-<button type="button" class="btn btn-dark">[Download .ZIP](https://github.com/harshv832/Library-Management-Software/archive/refs/heads/main.zip)</button>
 
-
-<button>[Download .tar](https://github.com/harshv832/Library-Management-Software/archive/refs/heads/main.tar.gz)</button>
 
 **TO RUN THE PROGRAM FOLLOWING STEPS SHOULD BE FOLLOWED::**
 1. After extracting the zip file there will be three folders (code and header files (LMS),
