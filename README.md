@@ -39,4 +39,6 @@ If you want to delete all the files make sure you remove this app’s background
 file and click end task.
 3. Now you can safely remove all the files related to it otherwise it can show you the
 message that the program files are still open.
-FINE WILL BE APPLIED AFTER 15 DAYS OF ISSUANCE DATE
+
+
+*NOTE::FINE WILL BE APPLIED AFTER 15 DAYS OF ISSUANCE DATE*
