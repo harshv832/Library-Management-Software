@@ -1,5 +1,9 @@
 ## LIBRARY MANAGEMENT SOFTWARE
 
+[Download .ZIP](https://github.com/harshv832/Library-Management-Software/archive/refs/heads/main.zip)
+
+[Download .tar](https://github.com/harshv832/Library-Management-Software/archive/refs/heads/main.tar.gz)
+
 **TO RUN THE PROGRAM FOLLOWING STEPS SHOULD BE FOLLOWED::**
 1. After extracting the zip file there will be three folders (code and header files (LMS),
 Library Management and Main program) and first you must save the folder named
