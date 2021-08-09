@@ -36,7 +36,9 @@ TO VIEW THE CODE ONLY::
 files related to the screens/windows of gui.
 3. When you open the gui application, you can see the name of the code/header file
 belonging to that screen/window at the upper-left corner of the screen.
+
 ![Screenshot (198)](https://user-images.githubusercontent.com/53493218/128667546-77b6f3e8-277b-45b7-88ef-e7c520934665.png)
+
 **TO DELETE ALL THE FILES::**
 If you want to delete all the files make sure you remove this app’s background process. To do so:
 1. Open task manager by pressing ctrl+shift+esc.
