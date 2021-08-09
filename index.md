@@ -13,11 +13,11 @@ password required to log-in as librarian).
 2. Extract libray_mang.rar and library_other.rar in a new folder in your 'Library Management Software' folder.
 3. Then open the “main program” folder which contains a program file named
 “library_mang.exe” by opening it you can access the gui based LIBRARY
-MANAGEMENT SYSTEM console.
-● Password to login through librarian user:: “pass”
-● Date format:: “dd/mm/yy”
+MANAGEMENT SYSTEM console.<br>
+● Password to login through librarian user:: “pass”<br>
+● Date format:: “dd/mm/yy”<br>
 ● You have to check the box while performing some functionalities where you have
-options like below example::
+options like below example::<br>
 ![Screenshot (199)](https://user-images.githubusercontent.com/53493218/128667507-60ce64f1-877c-439a-8444-235c111e590c.png)
 
 
