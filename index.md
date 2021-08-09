@@ -52,7 +52,7 @@ message that the program files are still open.
 
 
 ### Support or Contact
-1.Mobile:: +91-8445737698<br>
-2.Email:: [harshvlmv@gmail.com](harshvlmv@gmail.com)<br>
-3.Linked In::[www.linkedin.com/in/harshvlmv](www.linkedin.com/in/harshvlmv)<br>
-4.Instagram:: [www.instagram.com/v_harsh.163](www.instagram.com/v_harsh.163)<br>
+Mobile:: +91-8445737698<br>
+Email:: [harshvlmv@gmail.com](harshvlmv@gmail.com)<br>
+Linked In::[www.linkedin.com/in/harshvlmv](www.linkedin.com/in/harshvlmv)<br>
+Instagram:: [www.instagram.com/v_harsh.163](www.instagram.com/v_harsh.163)<br>
